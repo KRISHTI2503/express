@@ -3,6 +3,7 @@ env:
   es2022: true
   node: true
 rules:
+#krishti
   eol-last: error
   eqeqeq: [error, allow-null]
   indent: [error, 2, { MemberExpression: "off", SwitchCase: 1 }]
